@@ -4,11 +4,11 @@ title:  "Assault in San Francisco"
 date:   2024-03-30 13:52:06 +0100
 categories: jekyll update
 ---
-
-{% include crime_data.html %}
-
 We have analyzed the San Francisco Crime Data, provided by the police department of the city. More specifically we have looked into assault crimes due to its interesting sub crimes and the data it contained. We have explored the frequency, location and time of this category obtaining interesting insights.
 In order to have a general understanding of the data we have plotted a multi panel showing its frequency throughout the day, its relation between months and weekdays, the most frequent sub crimes, and the relation between those sub crimes and the district they occur.
+{% include crime_data.html %}
+
+
 ![alt text1](https://raw.githubusercontent.com/MarcusGalea/socialdata2024/main/assignment_2/multipanel.png)
 The plots show how there’s a higher frequency of crimes during the weekends and how it decreases during the early hours of the day, from 3 to 7 am approximately. 
 The most dangerous districts from the data that we have are: 
@@ -28,7 +28,7 @@ The Highest-Crime Areas Here are the neighborhoods that generate the most crime 
 - Western Addition - the main attraction in this area is Japantown. 
 - Bayview - low-income, residential, and industrial area.
 ![alt text2](https://raw.githubusercontent.com/MarcusGalea/socialdata2024/main/assignment_2/heatmap-1.png)
-
+Ιn analyzing data from 15 years (2003-2017) and mapping crime in San Francisco, it's evident that certain neighborhoods face persistent challenges, with no significant improvement over time. Residents in these areas are constantly at risk of assault and exposure to serious crimes. Despite efforts by authorities, the prevalence of crime remains unchanged, highlighting deep-rooted social and economic issues. To address this, proactive policing strategies and community involvement are crucial. By prioritizing safety measures and fostering collaboration, we can work towards creating safer environments for all residents, mitigating the pervasive fear of victimization and fostering a more secure future for San Francisco.Our analysis is corroborated and further validated by other articles, such as the one found at https://gisgeography.com/san-francisco-crime-map/. This reinforces the findings of our study and adds credibility to our conclusions regarding the crime landscape in San Francisco.
 
 
 

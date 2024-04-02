@@ -22,7 +22,7 @@ title: Assault in San Francisco
 email: s194336@student.dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
   In this blog we analyse the crime data provided by the San Francisco police department to understand the trends in crime rates in the city. In particular, we focus on assault and try to determine the where, when, and what of these cases.
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  MarcusGJ
 

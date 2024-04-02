@@ -29,7 +29,7 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-![alt text](<../assignment_2/multipanel.png>)
+![alt text](<https://github.com/MarcusGalea/socialdata2024/blob/main/assignment_2/multipanel.png>)
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 

@@ -12,9 +12,12 @@ Jekyll requires blog post files to be named according to the following format:
 
 
 This is the crime data html file
-{% crime_data.html %}
+{% include crime_data.html %}
 
 Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Also Include this visualisation
+{% include sanfran_map.html %}
 
 Jekyll also offers powerful support for code snippets:
 
@@ -25,6 +28,8 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
+
+![alt text](<../assignment_2/multipanel.png>)
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 

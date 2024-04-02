@@ -18,7 +18,6 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 
 Also Include this visualisation
 {% include sanfran_map.html %}
-
 Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
@@ -29,7 +28,11 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-![alt text](<https://github.com/MarcusGalea/socialdata2024/blob/main/assignment_2/multipanel.png>)
+![alt text1](https://github.com/MarcusGalea/socialdata2024/blob/main/assignment_2/multipanel.png)
+
+
+![alt text 2](/socialdata2024/assignment_2/multipanel.png)
+
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 

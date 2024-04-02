@@ -10,7 +10,7 @@ categories: jekyll update
 
 ![alt text1](https://raw.githubusercontent.com/MarcusGalea/socialdata2024/main/assignment_2/multipanel.png)
 
-![alt text1](https://raw.githubusercontent.com/MarcusGalea/socialdata2024/main/assignment_2/heatmap.png)
+![alt text1](https://raw.githubusercontent.com/MarcusGalea/socialdata2024/main/assignment_2/heatmap-1.png)
 
 
 We have analyzed the San Francisco Crime Data, provided by the police department of the city. More specifically we have looked into assault crimes due to its interesting sub crimes and the data it contained. We have explored the frequency, location and time of this category obtaining interesting insights.
